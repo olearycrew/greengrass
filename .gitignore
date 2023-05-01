@@ -1,3 +1,7 @@
+# Ignore secert data
+session.json
+.env
+
 # Ignore generated directories
 dist/
 exec/

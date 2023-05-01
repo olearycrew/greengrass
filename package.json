@@ -1,9 +1,9 @@
 {
-  "name": "typescript-cli-starter",
+  "name": "greengrass",
   "private": true,
-  "version": "1.0.0",
-  "description": "A simple and zero-opinion typescript starter template for building cross-platform command line applications.",
-  "author": "Khalid Zoabi <kzoabi@outlook.com>",
+  "version": "0.1.0",
+  "description": "A CLI client for Bluesky, get into the weeds with GreenGrass.",
+  "author": "Brendan O'Leary <@brendan.fyi>",
   "keywords": [
     "typescript",
     "cli",
@@ -31,6 +31,8 @@
     "typescript": "^3.5.3"
   },
   "dependencies": {
-    "commander": "^2.20.0"
+    "@atproto/api": "^0.2.11",
+    "commander": "^2.20.0",
+    "dotenv": "^16.0.3"
   }
 }

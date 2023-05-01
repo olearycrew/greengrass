@@ -1,4 +1,7 @@
-# typescript-cli-starter
+# GreenGrass
+A CLI client for Bluesky, get into the weeds with GreenGrass
+
+## From typescript-cli-starter
 
 A simple and zero-opinion typescript starter template for building cross-platform command line applications.
 
